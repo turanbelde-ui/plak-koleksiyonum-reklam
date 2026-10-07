@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "VINTAGE PLAK EVİ",
+    "description": "Koleksiyonunu yeni plaklarla tamamla.",
+    "button": "Mağazayı İncele →",
+    "url": "https://example.com",
+    "imageUrl": "",
+    "active": true,
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "id": "2",
+    "title": "PLAK PAZARI",
+    "description": "Nadir 45'lik ve LP'leri keşfet.",
+    "button": "İncele →",
+    "url": "https://example.com",
+    "imageUrl": "",
+    "active": true,
+    "startDate": "",
+    "endDate": ""
+  }
+]
